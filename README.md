@@ -12,7 +12,7 @@
   <img alt="projeto Habits" src="./src/img/projeto.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🎓 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 📔 Projeto
 
 Divulgação do trailer do novo filme do mario.
 
@@ -28,5 +28,5 @@ Divulgação do trailer do novo filme do mario.
 
 ---
 
-
+<h4 align="center">By: Isaluh - feat: Dev em Dobro 🤍</h4>
 
